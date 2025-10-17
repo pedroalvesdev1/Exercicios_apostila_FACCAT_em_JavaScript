@@ -55,6 +55,6 @@ Cada exercício contém:
 
 Desenvolvido por **Pedro Alves**  
 📅 Ano: 2025  
-📘 Curso: Ciência da Computação — Instituto PROA
+📘 Curso: Desenvolvedor Web .NET — Instituto PROA
 
 ---
